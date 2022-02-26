@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+
+
+body{
+    font-family: serif;
+    background-color: Tan;
+}
+
+header{
+    background-color: Tan;
+}
+main{
+    background-color: Wheat;
+}

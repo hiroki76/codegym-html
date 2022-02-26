@@ -1,3 +1,28 @@
-h1 {
-    color:red;
+@charset "UTF-8";
+
+head{font-family: serif;
+    background-color: #eae4d1;
+    
 }
+
+body {
+    font-family: serif;
+    background-color: #eae4d1;
+}
+
+header{
+    background-color: tan;
+    text-align: center;
+}
+main{
+    background-color: tan;
+    
+}
+
+footer{
+    background-color: #a87570;
+}
+
+h2 {
+    color:;
+    font-size: 18px;
