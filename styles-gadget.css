@@ -6,7 +6,6 @@
 
 html{
     font-size: 100%;
-    
 }
 
 body {
@@ -30,6 +29,7 @@ a:hover{
 header h1{
     padding: 20px;
 }
+
 .wrapper{
     background-size: cover;
     background: linear-gradient(#808080, #C0C0C0,#FFFFFF);
@@ -55,5 +55,4 @@ header h1{
 
 .contentfooter div{
     padding:  20px;
-    
 }
